@@ -9,9 +9,6 @@ import priorityQueue.PriorityQueue;
 import priorityQueue.Element;
 import priorityQueue.PriorityQueueException;
 
-/**
- * @author: Marji-Marchisio-Restaino
- */
 
 public class PriorityQueueMethodsTester 
 {
