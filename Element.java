@@ -1,7 +1,6 @@
 package priorityQueue;
 /**
  * 
- * @author Marji-Marchisio-Restaino
  * @param <P> element's priority
  * @param <E> element itself
  */
