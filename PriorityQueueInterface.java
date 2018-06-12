@@ -7,7 +7,6 @@ import priorityQueue.Element;
 import priorityQueue.PriorityQueueException;
 
 /**
- *  @author Marji-Marchisio-Restaino
  * @param <E>
  */
 public interface PriorityQueueInterface<P,E> 
