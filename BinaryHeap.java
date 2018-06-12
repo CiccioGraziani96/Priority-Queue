@@ -4,10 +4,6 @@ import java.util.Comparator;
 import java.util.HashMap;
 import java.util.NoSuchElementException;
 
-/**
- * Classe che si occupa di manipolare effettivamente le componenti della priority Queue
- *  @author Marji-Marchisio-Restaino
- */
 
 public class BinaryHeap 
 {
