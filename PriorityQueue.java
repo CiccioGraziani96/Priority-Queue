@@ -3,12 +3,8 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.NoSuchElementException;
-
 import priorityQueueInterface.PriorityQueueInterface;
 
-/**
- *  @author Marji-Marchisio-Restaino
- */
 
 public class PriorityQueue<P,E> extends BinaryHeap implements PriorityQueueInterface<P, E>
 {
