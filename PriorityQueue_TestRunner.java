@@ -4,9 +4,6 @@ import org.junit.runner.Result;
 import org.junit.runner.notification.Failure;
 import priorityQueueMethodTester.PriorityQueueMethodsTester;
 
-/**
- * @author Marji-Marchisio-Restaino
- */
 public class PriorityQueue_TestRunner 
 {
 	public static void main(String[] args)
